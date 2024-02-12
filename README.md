@@ -20,6 +20,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayrunnisabiyikli&show_icons=true&locale=en&layout=compact" alt="hayrunnisabiyikli" /></p>
 
+![snake gif](https://github.com/hayrunnisabiyikli/hayrunnisabiyikli/blob/output/github-contribution-grid-snake.gif)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayrunnisabiyikli&show_icons=true&locale=en" alt="hayrunnisabiyikli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hayrunnisabiyikli&" alt="hayrunnisabiyikli" /></p>
