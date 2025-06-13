@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hayrunnisa Bıyıklı</h1>
-<h3 align="center">3rd year undergraduate student, intern. Uploads own projects.</h3>
+<h3 align="center">4th year undergraduate student, intern. Uploads own projects.</h3>
 
 - 🌱 I’m currently learning **full-stack web development**
 
